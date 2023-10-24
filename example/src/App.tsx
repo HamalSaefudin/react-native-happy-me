@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react'
-import RNModuleTemplateModule, { Counter } from 'react-native-module-template'
+import RNHappyMeModule, { Counter } from 'react-native-happy-me'
 
 const App = () => {
   useEffect(() => {
-    console.log(RNModuleTemplateModule)
+    console.log(RNHappyMeModule)
   })
 
-  return <Counter />
+  return <Counter label='john' />
 }
 
 export default App
