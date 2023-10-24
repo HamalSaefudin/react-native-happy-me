@@ -1,7 +1,7 @@
 {
   "name": "react-native-happy-me",
-  "version": "1.0.1",
-  "description": "testing",
+  "version": "1.0.2",
+  "description": "React native package to make better developer experience",
   "homepage": "https://github.com/HamalSaefudin/react-native-happy-me#readme",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
